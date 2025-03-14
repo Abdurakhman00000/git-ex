@@ -8,6 +8,7 @@ const Footer = () => {
         <div className={s.content}>
           <h1>day1 footer</h1>
           <h1>day2 footer</h1>
+          <h1>day3 footer</h1>
         </div>
       </div>
     </footer>
