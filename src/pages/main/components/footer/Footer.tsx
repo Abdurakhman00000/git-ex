@@ -12,6 +12,7 @@ const Footer = () => {
           <h1>day4 footer</h1>
           <h1>day5 footer</h1>
           <h1>day6 footer</h1>
+          <h1>day7 footer</h1>
         </div>
       </div>
     </footer>
