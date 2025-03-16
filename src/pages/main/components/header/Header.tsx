@@ -7,6 +7,7 @@ const Header = () => {
       <div className="container">
         <div className={s.content}>
           <h1>day 1</h1>
+          <h1>day 2</h1>
         </div>
       </div>
     </header>
