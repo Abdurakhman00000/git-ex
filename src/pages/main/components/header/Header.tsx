@@ -12,6 +12,7 @@ const Header = () => {
           <h1>day 4</h1>
           <h1>day 5</h1>
           <h1>day 6</h1>
+          <h1>day 7</h1>
         </div>
       </div>
     </header>
