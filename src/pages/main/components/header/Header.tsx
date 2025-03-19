@@ -60,6 +60,7 @@ const Header = () => {
           <h1>day 20</h1>
           <h1>day 20</h1>
           <h1>day 20</h1>
+          <h1>day 21</h1>
         </div>
       </div>
     </header>
