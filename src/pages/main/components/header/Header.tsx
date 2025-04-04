@@ -417,6 +417,11 @@ const Header = () => {
           <h1>day 22</h1>
           <h1>day 22</h1>
           <h1>day 22</h1>
+          <h1>day 22</h1>
+          <h1>day 22</h1>
+          <h1>day 22</h1>
+          <h1>day 22</h1>
+          <h1>day 22</h1>
         </div>
       </div>
     </header>
